@@ -12,7 +12,9 @@
 	<artifactId>airbnb1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>airbnb1</name>
-	<description>Hotel management  </description>
+	<description>Hotel management  
+
+	</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
