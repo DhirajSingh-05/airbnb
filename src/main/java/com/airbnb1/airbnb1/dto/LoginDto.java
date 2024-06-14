@@ -2,22 +2,22 @@ package com.airbnb1.airbnb1.dto;
 
 public class LoginDto {
 
-    private String username;
-    private String Password;
+    private String Username;
+    private String password;
 
     public String getUsername() {
-        return username;
+        return Username;
     }
 
     public void setUsername(String username) {
-        this.username = username;
+        Username = username;
     }
 
     public String getPassword() {
-        return Password;
+        return password;
     }
 
     public void setPassword(String password) {
-        Password = password;
+        this.password = password;
     }
 }

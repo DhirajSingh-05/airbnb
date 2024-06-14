@@ -1,7 +1,8 @@
 package com.airbnb1.airbnb1.dto;
 
-public class PropertyUserDto {
+import jakarta.persistence.*;
 
+public class UserDto {
     private Long id;
 
     private String firstName;
